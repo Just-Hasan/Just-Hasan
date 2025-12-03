@@ -26,6 +26,14 @@ Dedicated fullstack developer passionate about building elegant and scalable web
 
 <br/>
 
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-basri-60a638240/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hassan_ve/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanbsry8@gmail.com)
+
+<br/>
+
 ## Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,32 +65,18 @@ Dedicated fullstack developer passionate about building elegant and scalable web
 
 <br/>
 
----
-
-## 🔥 Contribution Streak
+## Contribution Streak
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=just-hasan&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=just-hasan&theme=dark&hide_border=true)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
+<br/>
 
 <div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=just-hasan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
 
-</div>
-
----
-
-<div align="center">
-  
-### 💡 *"Victory belongs to the most persevering."* - Napoleon Bonaparte
-
-**Thanks for visiting! Let's connect and build something amazing together! 🚀**
+*"Victory belongs to the most persevering."* - Napoleon Bonaparte
 
 </div>
